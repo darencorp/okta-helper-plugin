@@ -11,7 +11,7 @@
     "https://*.okta.com/*",
     "https://*.okta-emea.com/*",
     "https://*.oktapreview.com/*",
-    "https://*.login.samba.tv/*",
+    "https://*.login.samba.tv/*"
   ],
   "content_scripts": [
     {
